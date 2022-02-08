@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+#hi {
+  width: 500px;
+  align-items: center;
+  justify-content: center;
+}
+.ui.fluid.image {
+  height:50px;
+}
+#hed {
+  background-image: url("https://www.teahub.io/photos/full/247-2473633_nice-pictures-for-a-banner.png");
+}
+.ui.segment:first-child  {
+  margin-bottom: 0;
+}
